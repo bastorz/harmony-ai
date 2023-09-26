@@ -39,3 +39,30 @@ export const tools = [
         href: "/code"
     },
 ]
+
+export const testimonials = [
+    {
+        name: "Antonio",
+        avatar: "A",
+        title: "Software Engineer",
+        description: "This is the best application I've ever used."
+    },
+    {
+        name: "Laura",
+        avatar: "L",
+        title: "Designer",
+        description: "First time I meet a completely free AI image and video generator."
+    },
+    {
+        name: "Sonia",
+        avatar: "S",
+        title: "Music Producer",
+        description: "I loved the way in which I can produce my music now with this feature."
+    },
+    {
+        name: "Pablo",
+        avatar: "P",
+        title: "Copywriter",
+        description: "Was stucked looking for new ideas for my posts, but thanks to this tool now I'm back on track again"
+    },
+]
